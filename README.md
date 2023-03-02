@@ -7,10 +7,10 @@ Frontend Developer
 
 I am frontend developer, and I am passionate and dedicated to my work. With 7 years of experience as a web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.
 
-*   🌍  I'm based in Thailand
-*   🖥️  See my portfolio at [MY CV](http://watcharah.netlify.app/)
+*   🌍  I'm based in **Thailand**
+*   🖥️  See my portfolio at [https://watcharah.netlify.app](https://watcharah.netlify.app/)
 *   ✉️  You can contact me at [watchara.hongkim@gmail.com](mailto:watchara.hongkim@gmail.com)
-*   🚀  I'm currently working on [ROVULA](http://www.rovula.com)
+*   🚀  I'm currently working on [ROVULA](https://www.rovula.com)
 
 **Skills** 
 <p align="left">
